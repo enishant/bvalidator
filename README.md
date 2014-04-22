@@ -1,5 +1,4 @@
-bValidator
-==========
+=== bValidator ===
 
 Activate plugin for including jQuery and CSS for bValidator
 
